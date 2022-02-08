@@ -1,1 +1,1 @@
-import "./fetch-utils.test.js";
+import './fetch-utils.test.js';

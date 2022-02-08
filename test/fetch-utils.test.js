@@ -1,7 +1,7 @@
 // IMPORT MODULES under test here:
 // import { example } from '../example.js';
 
-const { test, skip } = QUnit;
+const { test } = QUnit;
 
 import {
     getDirectorNames,
